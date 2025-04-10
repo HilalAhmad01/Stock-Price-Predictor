@@ -47,15 +47,8 @@ Ensure you have the following installed:
 
    ---
 
-   Stock-Price-Predictor/
-├── app.py                     # Streamlit frontend application
-├── Stock_Predictor_Model.ipynb # Jupyter Notebook for model building
-├── README.md                  # Project documentation
-└── screenshots/               # UI screenshot assets (optional)
-
-
-🫂 Contributing
-Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
+## 🫂 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
 
 
