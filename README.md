@@ -15,6 +15,8 @@
 ## 📸 Screenshot
 ![App Screenshot](https://github.com/HilalAhmad01/Stock-Price-Predictor/blob/main/screenshots/Screenshot%202025-04-10%20224637.png)
 
+![App Screenshot](https://github.com/HilalAhmad01/Stock-Price-Predictor/blob/main/screenshots/tsla%20stock%20chart.png)
+
 ---
 
 ## 🧠 Technologies Used
