@@ -12,6 +12,11 @@
 
 ---
 
+## 📸 Screenshot
+![App Screenshot](https://raw.githubusercontent.com/HilalAhmad01/Game-Genie/main/Game_Genie/Screenshot2.png)
+
+---
+
 ## 🧠 Technologies Used
 
 - Python 🐍  
@@ -38,7 +43,7 @@ Ensure you have the following installed:
 - Matplotlib
 - Scikit-Learn
 
-## 🤖 Installation
+
 
 ## 🤖 Installation
 1. Clone the repository:
