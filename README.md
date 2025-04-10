@@ -40,12 +40,22 @@ Ensure you have the following installed:
 
 ## 🤖 Installation
 
+## 🤖 Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Stock-Price-Predictor.git
-   cd Stock-Price-Predictor
+    ```bash
+    git clone https://github.com/HilalAhmad01/Stock-Price-Predictor.git
+    cd Stock-Price-Predictor
+    ```
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Launch Jupyter Notebook:
+    ```bash
+    jupyter notebook
+    ```
 
-   ---
+   
 
 ## 🫂 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
